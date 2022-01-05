@@ -1,3 +1,10 @@
-p{
+header{
     text-align: center;
+    font-size: 16px;
+    
+}
+
+
+footer{
+    font-weight: bold;
 }
