@@ -12,7 +12,6 @@
     max-width: 100%;
     display: flex;
     background-color: white;
-    padding-top: 10px;
     padding-bottom: 10px;
     justify-content: center;
 }
@@ -22,13 +21,18 @@
 }
 .story{
     text-align: center;
+    margin: 50px;
+}
+.list-ul{
+    text-align: center;
+    padding-bottom: 20px;
 }
 .list-li{
-    border: solid;
+    font-size: 16px;
+    text-align: left;
     width: 500px;
     line-height: 1.6;
-    align-content: center;
-    margin: 20px;
+    margin: 0 0 20px 350px;
 }
 
 body{
@@ -48,6 +52,9 @@ main{
 
 .quotes{
     font-style: italic;
+    text-align: left;
+    width: 500px;
+    margin: 0 0 0 350px;
 }
 .the-end{
     text-align: center;
